@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "translation-chat-app",
+    "slug": "translation-chat-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "translation-chat-app"
+}
